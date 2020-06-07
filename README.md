@@ -8,3 +8,4 @@ Foi ultilizada a API do IBGE para pesquisar os estados e cidades.
 
 Instrutor do Projeto: Mayk Brito
 
+![template-ecoleta](https://user-images.githubusercontent.com/54381970/83975815-443f1100-a8cc-11ea-998f-7dcc37021e41.png)
